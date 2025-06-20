@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
          {
             title: "FunGoDrop",
-            creators: "created by  Sheren, Rizka, ayas, Kezia",
+            creators: "created by  Sheren, Rizka, ayas, Kezia and collaboration with group 3 interaction (",
             description: "Media Terapi Motorik Halus Anak Lewat Permainan Edukatif",
             imageUrl: "images/fungoprot.jpg",
             detailUrl: "project-5-detail.html"
