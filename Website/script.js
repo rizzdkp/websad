@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Wheelcair Cup Holder",
             creators: "created by  Tubagus, Marcel, Faiz, Dhifan",
             description: "Latar belakang produk ini terbentuk karena bapak nya banyak menghabiskan waktu di kursi rodanya, sehingga kita mencoba membuat produk yang sederhana tapi bisa membantu dan bermanfaat",
-            imageUrl: "images/wheelchair_cup.png",
+            imageUrl: "images/Cupholder - Tubagus Rafly.png",
             detailUrl: "project-7-detail.html"
         },
         {
