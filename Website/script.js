@@ -52,13 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
             imageUrl: "images/Cupholder - Tubagus Rafly.png",
             detailUrl: "project-7-detail.html"
         },
-        {
-            title: "Kursi Roda Pintar",
-            creators: "created by  Sheren, Nabila, Dinda, Fathia",
-            description: "Kursi roda ini dirancang untuk membantu orang tua yang mengalami kesulitan bergerak. Dengan fitur-fitur seperti sensor jarak, lampu indikator, dan sistem pengereman otomatis, kursi roda ini memberikan kenyamanan dan keamanan tambahan.",
-            imageUrl: "images/kelompok5-product.jpg",
-            detailUrl: "project-8-detail.html"
-        }
+    
         // ... (data lainnya)
     ];
 
